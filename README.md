@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tamim Dost</h1>
+<h1 align="center">Hi, I'm Tamim Dost</h1>
 <h3 align="center">A passionate Software Developer Engineer in Test</h3>
 
 
