@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khanalphaa&label=Profile%20views&color=0e75b6&style=flat" alt="khanalphaa" /> </p>
 
-- 🔭 I’m currently working on **API's, Cucumber Framework, & TestNG Framework and API's**
+- 🔭 I’m currently working on **API's, Cucumber Framework, & TestNG Framework**
 
 - 👨‍💻 All of my projects are available at [https://github.com/KhanAlphaa](https://github.com/KhanAlphaa)
 
